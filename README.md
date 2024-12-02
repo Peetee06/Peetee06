@@ -10,7 +10,7 @@ Currently focused on Flutter packages like [fl_chart](https://pub.dev/packages/f
 Always looking to deepen my Flutter skills. 🏋🏻‍♀️
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/peter-trost-595a27173/) and follow me on [GitHub](https://github.com/Peetee06)! 🤝
-<br>
+<br><br>
   </td>
   <td width="40%" valign="bottom">
     <img width="100%" src="https://github-readme-stats-beta-steel-73.vercel.app/api/top-langs/?username=Peetee06&layout=compact&theme=transparent&hide=TeX&langs_count=4" />

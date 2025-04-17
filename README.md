@@ -6,7 +6,8 @@
 
 I'm a Flutter Engineer passionate about building great apps and contributing to Open Source. 📱
 
-Currently focused on Flutter packages like [fl_chart](https://pub.dev/packages/fl_chart) 📊 and [eventflux](https://pub.dev/packages/eventflux) 📨.  
+Currently focused on [flutter-testing-concepts](https://github.com/Peetee06/flutter-testing-concepts) where I share tips and tricks on testing your Flutter apps to support you in becoming 100% confident in the code you write.   
+
 Always looking to deepen my Flutter skills. 🏋🏻‍♀️
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/peter-trost-595a27173/) and follow me on [GitHub](https://github.com/Peetee06)! 🤝

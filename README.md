@@ -6,7 +6,7 @@
 
 I'm a Flutter Engineer passionate about building great apps and contributing to Open Source. 📱
 
-Currently focused on my work at 1KOMMA5°, the CleanTech startup for CO2-neutral energy, heat and mobility. Our vision is for everyone "to live on wind and sunlight forever for free".
+Currently focused on my work at [1KOMMA5°](https://1komma5.com/en/), the CleanTech startup for CO2-neutral energy, heat and mobility. Our vision is for everyone "to live on wind and sunlight forever for free".
 
 Always looking to deepen my Flutter skills. 🏋🏻‍♀️
 

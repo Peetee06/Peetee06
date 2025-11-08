@@ -6,7 +6,7 @@
 
 I'm a Flutter Engineer passionate about building great apps and contributing to Open Source. 📱
 
-Currently focused on [flutter-testing-concepts](https://github.com/Peetee06/flutter-testing-concepts) where I share tips and tricks on testing your Flutter apps to support you in becoming 100% confident in the code you write.   
+Currently focused on my work at 1KOMMA5°, the CleanTech startup for CO2-neutral energy, heat and mobility. Our vision is for everyone "to live on wind and sunlight forever for free".
 
 Always looking to deepen my Flutter skills. 🏋🏻‍♀️
 

@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+This is my old GitHub handle. Find everything I do on [my new one](https://github.com/peter-trost).
 <!--
 **Peetee06/Peetee06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
